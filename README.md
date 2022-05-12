@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in XBMU, majored in **software-development**.
 - 🌱 I’m currently learning JavaScript, TypeScript, React, full stack web development and Operate-System.
-- 👯 I’m looking to collaborate with **who is fund of hacking and burred in programming.**
+- 👯 I’m looking to collaborate with **who is fund of hacking and burred in programming！**
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: Twitter:[@prinOrange_](https://twitter.com/prinOrange)
   and [Weibo](https://weibo.com/u/1738014147)
