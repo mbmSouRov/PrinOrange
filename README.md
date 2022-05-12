@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 </p>
 <p align = "center">
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=wangscaler&theme=tokyonight">
-<img align = "right" src = "https://github-profile-trophy.vercel.app/?username=wangscaler&theme=tokyonight" >
+<img src = "https://github-profile-trophy.vercel.app/?username=wangscaler&theme=tokyonight" >
 </p>
