@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript, TypeScript, React, full stack web development and Operate-System.
 - 👯 I’m looking to collaborate with **who is fund of hacking and burred in programming.**
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: <a href="https://twitter.com/prinOrange_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @prinOrange_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- 📫 How to reach me: [@prinOrange_](https://twitter.com/prinOrange)
   and [Weibo](https://weibo.com/u/1738014147)
 
 <p align = "center">
