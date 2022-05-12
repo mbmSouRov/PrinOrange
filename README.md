@@ -14,6 +14,6 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wangscaler&theme=tokyonight">
 </p>
 <p align = "center">
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=wangscaler&theme=tokyonight">
-<img src = "https://github-profile-trophy.vercel.app/?username=wangscaler&theme=tokyonight" >
+<img style="display:inline" src = "https://github-readme-streak-stats.herokuapp.com/?user=wangscaler&theme=tokyonight">
+<img style="display:inline" src = "https://github-profile-trophy.vercel.app/?username=wangscaler&theme=tokyonight" >
 </p>
