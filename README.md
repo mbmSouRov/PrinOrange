@@ -15,29 +15,21 @@ Here are some ideas to get you started:
 
 
 
-<div style="display:flex;justify-content: space-between;">
+<div>
 
+<div align="left">
 <details open>
-
 <h3><strong>职务信息</strong></h3>
-
 <li>中原科技网首席工程师和运维人员。</li>
-
 <li>CodeMatrix站长</li>
-
 <li>龍谱文化创办者和首席运营</li>
-
 </details>
-
-
-<img style="display:inline" src = "https://github-readme-streak-stats.herokuapp.com/?user=prinOrange&theme=tokyonight">
-
 </div>
+</div>
+<div>
 
-<div style="display:flex;margin:10px 5px">
+<img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prinOrange&theme=tokyonight">
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prinOrange&theme=tokyonight">
-
-<img src = "https://github-profile-trophy.vercel.app/?username=prinOrange&theme=tokyonight" >
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=HollowMan6&theme=onedark&row=2&column=4&no-frame=true&margin-w=16&margin-h=16&no-bg=true" />
 
 </div>
