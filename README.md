@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 <img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prinOrange&theme=tokyonight">
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=HollowMan6&theme=onedark&row=2&column=4&no-frame=true&margin-w=16&margin-h=16&no-bg=true" />
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=prinOrange&theme=onedark&row=2&column=4&no-frame=true&margin-w=16&margin-h=16&no-bg=true" />
 
 </div>
