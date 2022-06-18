@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter:[@prinOrange_](https://twitter.com/prinOrange_)
   and [微博](https://weibo.com/u/1738014147)
 - 📕 My web blog http://blog.dragonbook.cn
-
+- 🌏 与大众分享观点，我的 [知乎地址](https://www.zhihu.com/people/prinOrange)
 
 
 <div>
