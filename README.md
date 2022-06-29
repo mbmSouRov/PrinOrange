@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying in XBMU, majored in **software-development**.
+- 🔭 I’m currently studying in XBMU, majored in **Software Engineering**.
 - 👨‍ 西北民族大学软件工程本科专业在读学生。
 - 🌱 I’m currently learning JavaScript, TypeScript, React, full stack web development and Operate-System.
 - 💻 正在学习Web前端开发，准备进军Web全栈领域。
@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <div align="left">
 <details open>
 <h3><strong>职务信息</strong></h3>
-<li>中原科技网首席工程师和运维人员。</li>
-<li>CodeMatrix站长</li>
-<li>龍谱文化创办者和首席运营</li>
+<li>中原科技网首席工程师和运维人员。 zzkp-news Chief Engineer, operation and maintenance personnel </li>
+<li>CodeMatrix站长 CodeMatrix Webmaster</li>
+<li>龍谱文化创办者和首席运营 Dragon-Book CEO</li>
 </details>
 </div>
 </div>
