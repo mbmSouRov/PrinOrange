@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="left">
 <details open>
 <h3><strong>职务信息</strong></h3>
-<li>中原科技网首席工程师和运维人员。 zzkp-news Chief Engineer, operation and maintenance personnel </li>
+<li>中原科技网首席运维人员。 zzkp-news Chief Engineer, operation and maintenance personnel </li>
 <li>CodeMatrix站长 CodeMatrix Webmaster</li>
 <li>龍谱文化创办者和首席运营 Dragon-Book CEO</li>
 </details>
